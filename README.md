@@ -6,6 +6,16 @@ I documenti vengono aggiornati regolarmente con i contenuti delle ultime lezioni
 
 ---
 
+## 💡 Come Consultare e Scaricare le Dispense
+
+* **Da Computer (PC / Mac)**:
+  * Clicca su **[Apri nel Viewer]** per visualizzare direttamente il PDF nel browser grazie al lettore integrato di GitHub.
+  * Clicca su **[Scarica PDF]** (oppure sul pulsante *Download raw file* all'interno del visualizzatore di GitHub) per salvare il file in locale.
+* **Da Smartphone / Tablet (Android / iOS)**:
+  * Clicca direttamente sul link **[Scarica PDF]** nella tabella per aprire e salvare la dispensa sulla tua app di lettura preferita (Adobe Acrobat, Apple Libri, Google Drive).
+
+---
+
 ## 🚀 Tabella Rapida di Consultazione e Download
 
 | Materia | File | Visualizza Online | Download Diretto |
@@ -57,16 +67,6 @@ La materia è volutamente organizzata in **due file PDF distinti** per consentir
 * **Caratteristiche**:
   * **Teoria mirata per l'Orale**: sintesi chiara, rigorosa e schematica di tutti i concetti fondamentali dell'elettromagnetismo (carica elettrica, legge di Coulomb, campo elettrostatico, teorema di Gauss in forma integrale e differenziale, potenziale elettrico, conduttori in equilibrio elettrostatico, capacità, dielettrici e polarizzazione).
   * **Formulario Finale per gli Esercizi**: al termine del documento è presente una sezione **Formulario** completa, ideale per avere tutte le equazioni, costanti fisiche e relazioni fondamentali sott'occhio durante la preparazione della prova scritta e la risoluzione degli esercizi.
-
----
-
-## 💡 Come Consultare e Scaricare le Dispense
-
-* **Da Computer (PC / Mac)**:
-  * Clicca su **[Apri nel Viewer]** per visualizzare direttamente il PDF nel browser grazie al lettore integrato di GitHub.
-  * Clicca su **[Scarica PDF]** (oppure sul pulsante *Download raw file* all'interno del visualizzatore di GitHub) per salvare il file in locale.
-* **Da Smartphone / Tablet (Android / iOS)**:
-  * Clicca direttamente sul link **[Scarica PDF]** nella tabella per aprire e salvare la dispensa sulla tua app di lettura preferita (Adobe Acrobat, Apple Libri, Google Drive).
 
 ---
 
